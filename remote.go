@@ -16,8 +16,8 @@ import (
 	"time"
 
 	"github.com/blang/semver"
-	"github.com/djykissyou/selenium/firefox"
-	"github.com/djykissyou/selenium/log"
+	"github.com/djykissyou/go-selenium/firefox"
+	"github.com/djykissyou/go-selenium/log"
 )
 
 // Errors returned by Selenium server.

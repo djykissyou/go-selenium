@@ -18,10 +18,10 @@ import (
 	"time"
 
 	"github.com/blang/semver"
-	"github.com/djykissyou/selenium/chrome"
-	"github.com/djykissyou/selenium/firefox"
-	"github.com/djykissyou/selenium/log"
-	"github.com/djykissyou/selenium/sauce"
+	"github.com/djykissyou/go-selenium/chrome"
+	"github.com/djykissyou/go-selenium/firefox"
+	"github.com/djykissyou/go-selenium/log"
+	"github.com/djykissyou/go-selenium/sauce"
 	"github.com/golang/glog"
 	"github.com/google/go-cmp/cmp"
 )

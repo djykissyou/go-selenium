@@ -14,7 +14,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/djykissyou/selenium/internal/zip"
+	"github.com/djykissyou/go-selenium/internal/zip"
 )
 
 // DeprecatedCapabilitiesKey and CapabilitiesKey are the key in the top-level Capabilities map under which
