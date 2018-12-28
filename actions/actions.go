@@ -1,7 +1,7 @@
 package actions
 
 import (
-	"github.com/djykissyou/selenium"
+	"github.com/djykissyou/go-selenium"
 	"reflect"
 	"time"
 )
